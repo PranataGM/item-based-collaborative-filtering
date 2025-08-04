@@ -112,22 +112,3 @@ Evaluasi sistem rekomendasi sederhana ini dilakukan secara kualitatif dengan mel
 * **Google Colab**
 
 ---
-
-## Kontributor
-
-* [Nama Lengkap Anda] ([Link Profil GitHub Anda](https://github.com/YourGitHubUsername)) - (Pengembang Utama)
-
----
-
-### Langkah Final Anda di GitHub:
-
-1.  **Buat Repositori Baru:**
-    * Nama Repositori: `simple-movie-recommender`
-    * Deskripsi: `A basic movie recommendation system built using Item-Based Collaborative Filtering. Recommends movies based on user rating patterns.`
-2.  **Edit `README.md`:** Salin seluruh teks `README.md` di atas, tempelkan ke `README.md` di repositori Anda. Pastikan untuk mengisi `[Nama Lengkap Anda]` dan `[Link Profil GitHub Anda]`.
-3.  **Unggah File Proyek:**
-    * `Simple_Recommendation_System.ipynb`
-    * `ratings.csv` dan `movies.csv` (Anda bisa membuat folder `data/` di GitHub lalu mengunggahnya ke sana).
-    * `requirements.txt` (buat dari Colab dengan `!pip freeze > requirements.txt` lalu unduh dan unggah).
-
-Dengan ini, proyek sistem rekomendasi Anda siap dipamerkan! Ini adalah demonstrasi yang sangat bagus untuk portofolio AI Anda.
